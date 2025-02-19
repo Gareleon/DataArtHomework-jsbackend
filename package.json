@@ -1,7 +1,7 @@
 {
-  "name": "melissa-shop-backend",
+  "name": "vote-app-backend",
   "version": "1.0.0",
-  "description": "Backend for Melissa Web-Store",
+  "description": "Backend for Vote-App",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
